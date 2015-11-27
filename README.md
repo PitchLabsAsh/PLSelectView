@@ -22,7 +22,7 @@ pod "PLSelectView"
 
 ## Author
 
-Ash Thwaites, ash@toolbox-design.co.uk
+Ash Thwaites, ash@trypitch.com
 
 ## License
 
